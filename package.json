@@ -1,6 +1,6 @@
 {
   "name": "cps-elements-example-react",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "private": true,
   "type": "module",
   "scripts": {
@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@cps-elements/web": "^0.1.6",
+    "@cps-elements/web": "^0.1.7",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },

@@ -1,0 +1,12 @@
+body {
+  font: var(--cps-text-body);
+  background-color: var(--cps-fill-solid-primary);
+  color: var(--cps-foreground-primary);
+  padding: 1rem;
+}
+
+p cps-icon {
+  font-size: 1rem;
+  vertical-align: middle;
+  margin-top: -2px;
+}

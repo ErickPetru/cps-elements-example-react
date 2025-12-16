@@ -1,5 +1,5 @@
-import { CpsButton } from "@cps-elements/web/react/button";
-import { CpsIcon } from "@cps-elements/web/react/icon";
+import { CpsButton } from "@cps-elements/web/react/button/index.js";
+import { CpsIcon } from "@cps-elements/web/react/icon/index.js";
 
 import { useState } from "react";
 import "./App.css";
